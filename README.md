@@ -6,6 +6,8 @@ Você pode matar o tédio tentando a sorte com meu novo simulador de adivinhaç�
 
 #### Resultado final <a href="https://adivinhe-o-numero-76mz.vercel.app/"> Jogo da adivinhação!</a>
 
+![image](https://user-images.githubusercontent.com/78568924/192103816-616b2461-914a-4ba7-875d-f8ecd7a44e7e.png)
+
 ---
 
 ##### Linkedin <a href="https://www.linkedin.com/in/alisoncaetano/">Alison Caetano</a>
