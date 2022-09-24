@@ -1,4 +1,6 @@
-# De quantas tentativas você precisa para ganhar de uma máquina?
+# De quantas tentativas você precisa para
+# ganhar de uma máquina?
+
 
 ## Esse código responde essa pergunta, jogue contra o seu próprio navegador e descubra quem de vocês é o melhor nisso.
 
