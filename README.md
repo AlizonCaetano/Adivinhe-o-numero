@@ -1,7 +1,9 @@
 # De quantas tentativas você precisa para ganhar de uma máquina?
 
 
-## Esse código responde essa pergunta, jogue contra o seu próprio navegador e descubra quem de vocês é o melhor nisso.
+## Esse código responde essa pergunta, com HTML, CSS e Javascript eu criei essa ferramenta.
+
+Este projeto é um desafio da Rocketseat(escola de educação para desenvolvedores), onde me aventurei no uso da DOM para manipulação do texto e leituras de campos de input para determinadas condicionais presentes no código.
 
 Você pode matar o tédio tentando a sorte com meu novo simulador de adivinhação, você precisa tentar acertar o que a máquina está pensando para poder ter êxito.
 
