@@ -1,6 +1,6 @@
-# Jogo da adivinhação!
+# De quantas tentativas você precisa para ganhar de uma máquina?
 
-## Treino de lógica para calcular um joguinho simples de adivinhação de número.
+## Esse código responde essa pergunta, jogue contra o seu próprio navegador e descubra quem de vocês é o melhor nisso.
 
 Você pode matar o tédio tentando a sorte com meu novo simulador de adivinhação, você precisa tentar acertar o que a máquina está pensando para poder ter êxito.
 
@@ -8,4 +8,4 @@ Você pode matar o tédio tentando a sorte com meu novo simulador de adivinhaç�
 
 ---
 
-##### Coded by <a href="https://www.linkedin.com/in/alisoncaetano/">Alison Caetano</a>
+##### Linkedin <a href="https://www.linkedin.com/in/alisoncaetano/">Alison Caetano</a>
