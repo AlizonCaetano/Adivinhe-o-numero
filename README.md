@@ -1,13 +1,8 @@
-# De quantas tentativas você precisa para ganhar de uma máquina?
+## Tente adivinhar o número que o seu navegador vai pensar :)
 
+Nesta janela, você vai inserir um numero de 0 a 10, e enquanto não acertar o contador vai te indicar quantos erros você fez. Assim que acertar a janela muda de conteúdo.
 
-## Esse código responde essa pergunta, com HTML, CSS e Javascript eu criei essa ferramenta.
-
-Este projeto é um desafio da Rocketseat(escola de educação para desenvolvedores), onde me aventurei no uso da DOM para manipulação do texto e leituras de campos de input para determinadas condicionais presentes no código.
-
-Você pode matar o tédio tentando a sorte com meu novo simulador de adivinhação, você precisa tentar acertar o que a máquina está pensando para poder ter êxito.
-
-#### Resultado final <a href="https://adivinhe-o-numero-76mz.vercel.app/"> Jogo da adivinhação!</a>
+#### URL: <a href="https://adivinhe-o-numero-76mz.vercel.app/"> Jogo da adivinhação!</a>
 
 ![image](https://user-images.githubusercontent.com/78568924/192103816-616b2461-914a-4ba7-875d-f8ecd7a44e7e.png)
 
